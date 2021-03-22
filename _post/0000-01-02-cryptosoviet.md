@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Crypto Soviet"
+title: _post/0000-01-02cryptosoviet.md
 ---
 Crypto Soviet is creating mutual aid
 
